@@ -1,5 +1,5 @@
 # **Thirdweb - Build your own DAO with just Javascript**
 
-### *Welcome 👋*
+### **Welcome 👋**
 
-DAO (Decentralised Autonomous Organisation) is built using Javascript and Thirdweb.
+<ins>DAO (Decentralised Autonomous Organisation)<ins>
