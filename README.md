@@ -1,4 +1,4 @@
-# thirdweb - Build your own DAO with just Javascript
+# **Thirdweb - Build your own DAO with just Javascript**
 
 ### **Welcome 👋**
 
