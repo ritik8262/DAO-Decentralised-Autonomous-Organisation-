@@ -2,10 +2,6 @@
 
 ## **Welcome 👋**
 
-
-
-------
-
 ### My website Link
 
 Visit: https://dao-decentralised-autonomous-organisation.vercel.app/ 
