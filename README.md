@@ -7,4 +7,4 @@ It is a transparent organisation controlled by group of organisation's members a
 
 -------
 
- Visit: https://dao-decentralised-autonomous-organisation.vercel.app/
+ Visit: https://dao-decentralised-autonomous-organisation.vercel.app/ (Link to my deployed website using Verecl)
