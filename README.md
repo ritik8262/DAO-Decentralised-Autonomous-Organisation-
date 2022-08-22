@@ -6,7 +6,8 @@
 
 Visit: https://dao-decentralised-autonomous-organisation.vercel.app/
 
-*NFT recieved:*
+*NFT recieved*:
+
 Visit: https://opensea.io/assets/matic/0x3CD266509D127d0Eac42f4474F57D0526804b44e/21490?force_update=true
 
 
