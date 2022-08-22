@@ -28,4 +28,4 @@ It is a transparent organisation controlled by group of organisation's members a
 
 ## Website Screenshot
 
-![https://github.com/ritik8262/DAO-Decentralised-Autonomous-Organisation-/blob/main/DAO_FINAL_1.png]
+![](https://github.com/ritik8262/DAO-Decentralised-Autonomous-Organisation-/blob/main/DAO_FINAL_1.png)
